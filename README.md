@@ -23,7 +23,8 @@ Test branch
      ```
           develop
      ````
-Feature branch
+3. Feature branch
+
      ```
           feature/test
      ````
