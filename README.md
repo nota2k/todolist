@@ -25,7 +25,7 @@ Test branch
      ````
 Feature branch
      ```
-          feature/*
+          feature/test
      ````
 
 3. Install the dependencies:
