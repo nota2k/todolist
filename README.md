@@ -28,11 +28,6 @@ Feature branch
           feature/test
      ````
 
-3. Install the dependencies:
-     ```sh
-     npm install
-     ```
-
 ## Usage
 1. Start the application:
      ```sh
