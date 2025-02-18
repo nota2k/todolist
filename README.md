@@ -14,10 +14,20 @@ This is a simple To-Do List application that helps you keep track of your tasks.
      ```sh
      git clone https://github.com/yourusername/todolist.git
      ```
-2. Navigate to the project directory:
+2. Branch hierarchy:
+Principal branch
      ```sh
-     cd todolist
+     main
      ```
+Test branch
+     ```
+          develop
+     ````
+Feature branch
+     ```
+          feature/*
+     ````
+
 3. Install the dependencies:
      ```sh
      npm install
