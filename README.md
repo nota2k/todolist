@@ -20,13 +20,14 @@ Principal branch
      main
      ```
 Test branch
-```
-     develop
-````
-3. Install the dependencies:
-     ```sh
-     npm install
      ```
+          develop
+     ````
+3. Feature branch
+
+     ```
+          feature/test
+     ````
 
 ## Usage
 1. Start the application:
